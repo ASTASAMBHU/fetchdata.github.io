@@ -1,0 +1,26 @@
+button{
+    padding: 10px;
+    background-color: blue;
+    color: white;
+    font-size: 18px;
+    border: none;
+    border-radius: 10px;
+}
+p{
+    font-size: 18px;
+}
+p > input{
+    margin-left: 20px;
+}
+p > button{
+    margin-left: 20px;
+}
+p > span{
+    margin-left: 20px;
+}
+input{
+    padding: 15px;
+}
+table{
+    border-collapse: collapse;
+}
